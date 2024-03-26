@@ -5,15 +5,11 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Shmuggedd/osticket-prereqs)
 
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Shmuggedd/configure-ad)
+- <b>Microsoft Azure</b
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Shmuggedd/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: 
-[instagram]:
-[linkedin]: 
+[Gmail]: Joelixdecena48@gmail.com
+[Microsoft]:Joelixdecena7@outlook.com
+[Dice]: Joelix Decena
